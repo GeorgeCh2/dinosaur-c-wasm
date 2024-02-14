@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "*.tsx": "typescriptreact",
-        "raylib.h": "c",
-        "__node_handle": "c",
-        "raymath.h": "c",
-        "math.h": "c"
-    }
-}
