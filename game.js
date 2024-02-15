@@ -73,6 +73,7 @@ WebAssembly.instantiateStreaming(fetch('game.wasm'), {
             ctx.arc(x, y, radius, 0, Math.PI * 2, false);
             ctx.fillStyle = color_to_hex(r, g, b, a);
             ctx.fill();
+            ctx.drawImage()
         }
     })
 }).then((w) => {
